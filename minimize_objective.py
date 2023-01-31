@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Minimization Algorithms (Programming Assignment 4)
+Minimization Algorithms
 
 Author: Nicolas Guerra
 Due Date: 5/20/2022
