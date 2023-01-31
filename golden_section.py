@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 '''
-Programming Assignment 2 - Minimize Module
+Minimize Module
 
 This file is a module which contains the function 'minimize' which can
 find the local minimizer of any stictly unimodal, continuous function.
